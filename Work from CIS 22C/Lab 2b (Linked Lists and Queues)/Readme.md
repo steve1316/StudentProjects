@@ -7,6 +7,7 @@ For this assignment, you need to implement a link-based Queue ADT.  If you finis
 5. Ensure that your Node, List and Queue ADTs are mimimal and cohesive with adequate walls around them.  Define interfaces as needed, so you can reuse them in all your subsequent assignments.
 6. Then write a main that will demonstrate the capabilities of you Queue ADT with different types of data - numbers, strings and your currency objects.
 
-Grade: /20
+Grade: 7/10
 
-Feedback: 
+Feedback: -2 no relationship between queue and list	
+		  -1 no currency demo

@@ -4,6 +4,6 @@ Then write the code for either a recursive bubble sort or recursive selection so
 
 In your interactive main, ask the user for the number of data items and the type of data items to be entered.  You can limit the types of data to 'int', 'double', 'char' and 'string'.  Then get that many data items from the user - you can expect that the user will not make any error in entering the data items.  Finally sort the data in descending order using your sort function and print the how the array looks at the end of every sort step.
 
-Grade: /20
+Grade: 14/20
 
-Feedback: 
+Feedback: original score was 18. Weighted was 14. Redid this problem for the midterm for a better grade from initial score of 2.

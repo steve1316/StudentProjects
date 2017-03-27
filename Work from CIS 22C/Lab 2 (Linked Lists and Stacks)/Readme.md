@@ -8,6 +8,8 @@ For this assignment, you need to implement a link-based Stack ADT.  To complete 
 6. Then write a main that will demonstrate the capabilities of you Stack ADT with different types of data - numbers, strings and your currency objects.
 7. Remember the template class code cannot be split into .h and .cpp files - you need to define them in one file and you can give it the .h extension.
 
-Grade: /20
+Grade: 14/20
 
-Feedback:
+Feedback: -2 late
+		  -4 no relationship between stack and list
+		  -2 no demo with currency

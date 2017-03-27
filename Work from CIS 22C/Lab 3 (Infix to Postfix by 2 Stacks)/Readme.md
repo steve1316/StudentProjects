@@ -10,6 +10,6 @@ c. Assume the operands in the input expression will be single digit operands.
 
 d. Check to make sure your input expression is syntactically correct.
 
-Grade: /20
+Grade: 20/20
 
-Feedback: 
+Feedback: none
