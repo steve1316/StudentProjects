@@ -1,0 +1,32 @@
+10000
+1	2	3	4	5
+5	Sonic	1	
+10	Pikachu	3	
+15	Corrin	3	
+20	Pit	3	
+25	Robin	3	
+25	Robin	3	
+1	Fox	1	
+6	Fox	1	
+11	Metaknight	3	
+16	Marth	3	
+21	Peach	3	
+21	Peach	3	
+55	Young Link	4	
+2	Cloud	1	
+7	Ryu	2	
+12	Villager	3	
+17	Greninja	3	
+22	Rob	3	
+3	Sheik	1	
+8	Mewtwo	2	
+13	Megaman	3	
+13	Megaman	3	
+18	Lucario	3	
+23	Luigi	3	
+28	Wario	3	
+4	Mario	1	
+9	Bayonetta	2	
+14	Ness	3	
+19	Yoshi	3	
+24	Olimar	3	
